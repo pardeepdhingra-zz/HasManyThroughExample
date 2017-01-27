@@ -1,0 +1,10 @@
+This example is to explain relationship between 3 models using has many through.
+- student
+- subject
+- teacher
+
+Requirement:
+- one student can have many teachers
+- one teacher can have many students
+- one student can have many subjects
+- one teacher can teach many subjects
