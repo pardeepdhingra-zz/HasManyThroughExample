@@ -1,3 +1,5 @@
+Stack Overflow [Question](http://stackoverflow.com/questions/41896320/active-record-db-modeling-ruby-on-rails/41896796#41896796)
+
 This example is to explain relationship between 3 models using has many through.
 - student
 - subject
